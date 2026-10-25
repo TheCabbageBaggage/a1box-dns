@@ -115,7 +115,7 @@ nmcli connection down <name> && nmcli connection up <name>
 
 | Device | Firmware | Result |
 | --- | --- | --- |
-| A1 WLAN Box / Zyxel DX3301-T0 | V5.15 GUI build shipped by A1 (2024–2026) | working |
+| A1 WLAN Box / Zyxel DX3301-T0 | V5.50(ACIM.0)b21_MU (A1 build) | working, survives a reboot |
 
 Reports for other A1-boxed Zyxel models (DX3300-T0, EX3301-T0, DX5401-B0 …) are
 welcome — the DAL/`oid=lan` mechanism is shared across the AX/DX/EX/PX series.

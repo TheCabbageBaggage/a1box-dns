@@ -1,8 +1,8 @@
 # Protocol notes — A1/Zyxel web API
 
-Notes gathered by watching the box's own web UI bundle. Applies to the V5.15
-GUI used on the A1 WLAN Box (Zyxel DX3301-T0) and, with high probability, to the
-AX/DX/EX/PX series in general.
+Notes gathered by watching the box's own web UI bundle. Applies to the V5.15-style
+GUI used on the A1 WLAN Box (Zyxel DX3301-T0, firmware V5.50(ACIM.0)b21_MU) and,
+with high probability, to the AX/DX/EX/PX series in general.
 
 Everything below is unauthenticated observation of the device you own — no
 firmware was modified.
