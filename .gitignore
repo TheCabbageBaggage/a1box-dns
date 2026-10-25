@@ -1,0 +1,12 @@
+# local backups written by the tool — they contain your own network config
+a1box-lan-*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors
+.vscode/
+.idea/
